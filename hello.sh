@@ -1,4 +1,3 @@
-#!/usr/bin/bash
 
 # warna
 bereum=$'\e[1;31m'
